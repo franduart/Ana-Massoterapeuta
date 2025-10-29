@@ -1,6 +1,6 @@
 #  Landing Page - Massoterapeuta Ana Cristina
 
-Este projeto é uma **landing page ** desenvolvida para apresentar os serviços de massoterapia, destacar os benefícios das terapias oferecidas e facilitar o contato com a profissional.  
+Este projeto é uma **landing page** desenvolvida para apresentar os serviços de massoterapia, destacar os benefícios das terapias oferecidas e facilitar o contato com a profissional.  
 O objetivo é transmitir **bem-estar, confiança e credibilidade**, proporcionando uma experiência agradável ao usuário.
 
 
