@@ -10,7 +10,7 @@ O objetivo é transmitir **bem-estar, confiança e credibilidade**, proporcionan
 ##  Tecnologias Utilizadas
 
 - **HTML5** – Estrutura semântica da página  
-- **CSS3 – Estilização responsiva e moderna    
+- **CSS3**– Estilização responsiva e moderna    
 - **Google Fonts** – Tipografia leve e elegante  
 
 ##  Funcionalidades
